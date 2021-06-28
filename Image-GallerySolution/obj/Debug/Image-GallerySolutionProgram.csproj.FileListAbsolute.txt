@@ -1,0 +1,7 @@
+C:\Users\srivatsa.mc\source\repos\Image-GallerySolution\Image-GallerySolution\bin\Debug\Image-GallerySolution.exe.config
+C:\Users\srivatsa.mc\source\repos\Image-GallerySolution\Image-GallerySolution\bin\Debug\Image-GallerySolution.exe
+C:\Users\srivatsa.mc\source\repos\Image-GallerySolution\Image-GallerySolution\bin\Debug\Image-GallerySolution.pdb
+C:\Users\srivatsa.mc\source\repos\Image-GallerySolution\Image-GallerySolution\obj\Debug\Image-GallerySolutionProgram.csprojResolveAssemblyReference.cache
+C:\Users\srivatsa.mc\source\repos\Image-GallerySolution\Image-GallerySolution\obj\Debug\Image-GallerySolutionProgram.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\source\repos\Image-GallerySolution\Image-GallerySolution\obj\Debug\Image-GallerySolution.exe
+C:\Users\srivatsa.mc\source\repos\Image-GallerySolution\Image-GallerySolution\obj\Debug\Image-GallerySolution.pdb
