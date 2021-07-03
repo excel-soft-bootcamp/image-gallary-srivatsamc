@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Image_GallerySolution
 {
-    public interface Iapplication
+    public interface ICommunicationapplication
     {
         void Send();
 

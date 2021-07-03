@@ -13,15 +13,11 @@ namespace Image_GallerySolution
             Whatsapp _whatsapp = new Whatsapp();
             Gmail _gmail = new Gmail();
             Bluetooth _bluetooth = new Bluetooth();
-            
-            
-            ImageGallery _imageGallery = new ImageGallery();
-            _imageGallery.Share(_whatsapp);//_whatsapp
-            _imageGallery.Share(_gmail);
-            _imageGallery.Share(_bluetooth);
-        
-           
-            
+
+            ImageGallery imageGallery = new ImageGallery();
+            imageGallery.ImageGallery_ref(_bluetooth);
+            imageGallery.Share();
+          
         }
 
     }

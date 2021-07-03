@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Image_GallerySolution
 {
-    public class Bluetooth:Iapplication
+    public class Bluetooth:ICommunicationapplication
     {
         public void Send()
         {

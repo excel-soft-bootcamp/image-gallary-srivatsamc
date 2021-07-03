@@ -8,16 +8,16 @@ namespace Image_GallerySolution
 {
     public class ImageGallery
     {
-        Iapplication application;
-
-        public ImageGallery(Iapplication image)
+        ICommunicationapplication application;
+        
+        public void ImageGallery_ref(ICommunicationapplication imageRef)
         {
-            this.application = image;
+            this.application = imageRef;
         }
 
         public void Share()
         {
-            application.Send();
+            this.application.Send();
         }
     }
 }

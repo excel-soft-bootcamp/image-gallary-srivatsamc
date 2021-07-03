@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Image_GallerySolution
 {
-    public class Whatsapp:Iapplication
+    public class Whatsapp:ICommunicationapplication
     {
         public void Send()
         {

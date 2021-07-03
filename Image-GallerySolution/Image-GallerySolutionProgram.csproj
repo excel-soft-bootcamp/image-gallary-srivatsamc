@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="Bluetooth.cs" />
     <Compile Include="Gmail.cs" />
-    <Compile Include="Iapplication.cs" />
+    <Compile Include="ICommunicationapplication.cs" />
     <Compile Include="ImageGallery.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

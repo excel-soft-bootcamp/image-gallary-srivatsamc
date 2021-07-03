@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Image_GallerySolution
 {
-    public class Gmail:Iapplication
+    public class Gmail:ICommunicationapplication
     {
         public void Send()
         {
